@@ -73,7 +73,7 @@ created: 2026-03-18
 
 | # | Phase | Files | Status | Effort |
 |---|-------|-------|--------|--------|
-| 1 | [Project Setup](phase-01-project-setup.md) | pyproject.toml, requirements.txt, dirs, __init__.py | pending | 30m |
+| 1 | [Project Setup](phase-01-project-setup.md) | pyproject.toml, requirements.txt, dirs, __init__.py | **done** | 30m |
 | 2 | [Models + Config](phase-02-models-and-config.md) | models/market.py, models/news.py, config.py, settings.yaml | pending | 1.5h |
 | 3 | [Utils](phase-03-utils.md) | utils/logger.py, utils/rate-limiter.py | pending | 30m |
 | 4 | [EventBus](phase-04-events.md) | events/bus.py | pending | 1h |
